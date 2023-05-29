@@ -15,6 +15,10 @@
 - **React.Js** 💚
 
 <br/>
+---
+
+![image](https://github.com/Singh-csm/Quote/assets/118621709/bc5d7cd2-7e57-4d10-9e2c-e28b8d745389)
+
 
 ---
 
