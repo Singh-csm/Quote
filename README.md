@@ -20,10 +20,10 @@
 
 ---
 
-
-![image](https://github.com/Singh-csm/Quote/assets/118621709/3d724d42-fc65-4692-b1ac-77c18b920b31)
-
-
+<div style="box-shadow: 0 0 10px rgb(207, 206, 206);">
+  <img src="https://github.com/Singh-csm/Quote/assets/118621709/3d724d42-fc65-4692-b1ac-77c18b920b31" alt="UI Preview" />
+</div>
+                         
 ---
 
 <br/>
